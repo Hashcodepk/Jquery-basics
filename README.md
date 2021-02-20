@@ -1,3 +1,1 @@
-# Jquery-basics
-
-SEE BRANCHES
+# Jquery-Dom-Basics
