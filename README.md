@@ -1,2 +1,2 @@
-# Jquery-basics
+# Jquery-Events-basics
 
